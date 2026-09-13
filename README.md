@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Alex 👋
 
-<!--
-**Alexander5555-jpg/Alexander5555-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Python and building small projects for fun.
 
-Here are some ideas to get you started:
+### Currently learning
+- Python
+- GNU EMACS & Magit
+- Git & GitHub
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [BMI-calculator] (https://github.com/Alexander5555-jpg/BMI-calculator.git) - my first Python project
+
+## Contact
+dev.alexander3892@proton.me
